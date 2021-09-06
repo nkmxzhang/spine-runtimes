@@ -33,6 +33,8 @@
 #include <string>
 
 #include "IKExample.h"
+#include "DressupExample.h"
+#include "MixAndMatchExample.h"
 #include <spine/spine-cocos2dx.h>
 #include <spine/Debug.h>
 #include "AppMacros.h"
@@ -95,6 +97,8 @@ bool AppDelegate::applicationDidFinishLaunching () {
 	}
 	
 	searchPath.push_back("common");
+    searchPath.push_back("equip");
+    searchPath.push_back("actress");
 	 
 	// set search path
 	FileUtils::getInstance()->setSearchPaths(searchPath);
@@ -110,7 +114,9 @@ bool AppDelegate::applicationDidFinishLaunching () {
 	
 	// create a scene. it's an autorelease object
 	//auto scene = RaptorExample::scene();
-	auto scene = IKExample::scene();
+	//auto scene = IKExample::scene();
+    auto scene = DressupExample::scene();
+    //auto scene = MixAndMatchExample::scene();
 
 	// run
 	director->runWithScene(scene);

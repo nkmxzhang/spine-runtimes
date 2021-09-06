@@ -1,0 +1,55 @@
+
+500101.png
+size: 408,121
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hair_bang
+  rotate: false
+  xy: 244, 45
+  size: 88, 74
+  orig: 88, 74
+  offset: 0, 0
+  index: -1
+hair_hairh
+  rotate: true
+  xy: 134, 16
+  size: 103, 108
+  orig: 103, 108
+  offset: 0, 0
+  index: -1
+hair_hairh_z
+  rotate: true
+  xy: 2, 2
+  size: 117, 130
+  orig: 117, 130
+  offset: 0, 0
+  index: -1
+hair_temples_l
+  rotate: true
+  xy: 333, 3
+  size: 18, 62
+  orig: 18, 62
+  offset: 0, 0
+  index: -1
+hair_temples_r
+  rotate: true
+  xy: 244, 12
+  size: 31, 66
+  orig: 31, 66
+  offset: 0, 0
+  index: -1
+head_wear_q
+  rotate: false
+  xy: 312, 6
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+head_wear_z
+  rotate: true
+  xy: 334, 23
+  size: 96, 72
+  orig: 96, 72
+  offset: 0, 0
+  index: -1

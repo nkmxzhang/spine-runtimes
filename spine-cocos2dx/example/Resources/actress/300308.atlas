@@ -1,0 +1,272 @@
+
+300308.png
+size: 1834,375
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+backpack
+  rotate: true
+  xy: 1723, 104
+  size: 78, 108
+  orig: 78, 108
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+body_s
+  rotate: true
+  xy: 1669, 304
+  size: 69, 50
+  orig: 69, 50
+  offset: 0, 0
+  index: -1
+leftarm0_clothes_s
+  rotate: false
+  xy: 2, 40
+  size: 102, 333
+  orig: 102, 333
+  offset: 0, 0
+  index: -1
+leftarm0_clothes_x
+  rotate: false
+  xy: 230, 60
+  size: 119, 313
+  orig: 119, 313
+  offset: 0, 0
+  index: -1
+leftarm1_anger_clothes_s
+  rotate: true
+  xy: 44, 5
+  size: 33, 88
+  orig: 33, 88
+  offset: 0, 0
+  index: -1
+leftarm1_bear_pendant
+  rotate: false
+  xy: 822, 85
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+leftarm1_happy_bear_pendant
+  rotate: false
+  xy: 202, 6
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+leftarm1_happy_clothes_s
+  rotate: true
+  xy: 660, 6
+  size: 62, 48
+  orig: 62, 48
+  offset: 0, 0
+  index: -1
+leftarm2_anger_clothes_pendant
+  rotate: false
+  xy: 1071, 121
+  size: 129, 252
+  orig: 129, 252
+  offset: 0, 0
+  index: -1
+leftarm2_anger_clothes_s
+  rotate: false
+  xy: 1351, 153
+  size: 47, 220
+  orig: 47, 220
+  offset: 0, 0
+  index: -1
+leftarm2_anger_clothes_x
+  rotate: true
+  xy: 448, 9
+  size: 54, 210
+  orig: 54, 210
+  offset: 0, 0
+  index: -1
+leftarm2_clothes_pendant
+  rotate: false
+  xy: 586, 70
+  size: 109, 303
+  orig: 109, 303
+  offset: 0, 0
+  index: -1
+leftarm2_goal_clothes_pendant
+  rotate: false
+  xy: 771, 92
+  size: 49, 281
+  orig: 49, 281
+  offset: 0, 0
+  index: -1
+leftarm2_goal_clothes_s
+  rotate: false
+  xy: 1281, 153
+  size: 68, 220
+  orig: 68, 220
+  offset: 0, 0
+  index: -1
+leftarm2_goal_clothes_x
+  rotate: true
+  xy: 233, 2
+  size: 56, 213
+  orig: 56, 213
+  offset: 0, 0
+  index: -1
+leftarm2_happy_clothes_pendant
+  rotate: false
+  xy: 697, 80
+  size: 72, 293
+  orig: 72, 293
+  offset: 0, 0
+  index: -1
+leftarm2_happy_clothes_s
+  rotate: true
+  xy: 763, 3
+  size: 75, 195
+  orig: 75, 195
+  offset: 0, 0
+  index: -1
+leftarm2_happy_clothes_x
+  rotate: true
+  xy: 1149, 2
+  size: 117, 161
+  orig: 117, 161
+  offset: 0, 0
+  index: -1
+rightarm0_clothes_s
+  rotate: false
+  xy: 106, 45
+  size: 122, 328
+  orig: 122, 328
+  offset: 0, 0
+  index: -1
+rightarm0_clothes_x
+  rotate: false
+  xy: 351, 65
+  size: 140, 308
+  orig: 140, 308
+  offset: 0, 0
+  index: -1
+rightarm1_anger_clothes_s
+  rotate: false
+  xy: 1669, 214
+  size: 47, 88
+  orig: 47, 88
+  offset: 0, 0
+  index: -1
+rightarm1_bear_pendant
+  rotate: false
+  xy: 134, 3
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+rightarm1_happy_clothes_s
+  rotate: false
+  xy: 710, 2
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+rightarm1_happy_clothes_x
+  rotate: false
+  xy: 1723, 32
+  size: 47, 70
+  orig: 47, 70
+  offset: 0, 0
+  index: -1
+rightarm2_anger_clothes_pendant
+  rotate: false
+  xy: 822, 117
+  size: 123, 256
+  orig: 123, 256
+  offset: 0, 0
+  index: -1
+rightarm2_anger_clothes_s
+  rotate: false
+  xy: 1202, 145
+  size: 77, 228
+  orig: 77, 228
+  offset: 0, 0
+  index: -1
+rightarm2_goal_clothes_s
+  rotate: false
+  xy: 1202, 145
+  size: 77, 228
+  orig: 77, 228
+  offset: 0, 0
+  index: -1
+rightarm2_anger_clothes_x
+  rotate: false
+  xy: 1578, 173
+  size: 89, 200
+  orig: 89, 200
+  offset: 0, 0
+  index: -1
+rightarm2_clothes_pendant
+  rotate: false
+  xy: 493, 69
+  size: 91, 304
+  orig: 91, 304
+  offset: 0, 0
+  index: -1
+rightarm2_goal_clothes_pendant
+  rotate: false
+  xy: 947, 117
+  size: 122, 256
+  orig: 122, 256
+  offset: 0, 0
+  index: -1
+rightarm2_goal_clothes_x
+  rotate: false
+  xy: 1487, 167
+  size: 89, 206
+  orig: 89, 206
+  offset: 0, 0
+  index: -1
+rightarm2_happy_clothes_pendant
+  rotate: false
+  xy: 1400, 154
+  size: 85, 219
+  orig: 85, 219
+  offset: 0, 0
+  index: -1
+rightarm2_happy_clothes_s
+  rotate: false
+  xy: 1723, 184
+  size: 109, 189
+  orig: 109, 189
+  offset: 0, 0
+  index: -1
+rightarm2_happy_clothes_x
+  rotate: false
+  xy: 1503, 6
+  size: 94, 159
+  orig: 94, 159
+  offset: 0, 0
+  index: -1
+skirt_s1
+  rotate: true
+  xy: 1599, 44
+  size: 127, 122
+  orig: 127, 122
+  offset: 0, 0
+  index: -1
+skirt_s1_x
+  rotate: false
+  xy: 1312, 12
+  size: 189, 139
+  orig: 189, 139
+  offset: 0, 0
+  index: -1
+skirt_s2
+  rotate: false
+  xy: 960, 5
+  size: 187, 110
+  orig: 187, 110
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+400204.png
+size: 140,292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leftleg_socks
+  rotate: false
+  xy: 2, 2
+  size: 70, 288
+  orig: 70, 288
+  offset: 0, 0
+  index: -1
+rightleg_socks
+  rotate: false
+  xy: 74, 5
+  size: 64, 285
+  orig: 64, 285
+  offset: 0, 0
+  index: -1

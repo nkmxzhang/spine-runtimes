@@ -1,0 +1,13 @@
+
+200303.png
+size: 121,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skirt_s1
+  rotate: false
+  xy: 2, 2
+  size: 117, 122
+  orig: 117, 122
+  offset: 0, 0
+  index: -1

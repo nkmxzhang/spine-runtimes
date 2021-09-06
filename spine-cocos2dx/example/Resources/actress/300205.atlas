@@ -1,0 +1,20 @@
+
+300205.png
+size: 68,66
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leftleg3_shoes
+  rotate: false
+  xy: 2, 2
+  size: 31, 62
+  orig: 31, 62
+  offset: 0, 0
+  index: -1
+rightleg3_shoes
+  rotate: false
+  xy: 35, 2
+  size: 31, 62
+  orig: 31, 62
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+400103.png
+size: 145,558
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skirt_pendant
+  rotate: true
+  xy: 78, 221
+  size: 183, 65
+  orig: 183, 65
+  offset: 0, 0
+  index: -1
+skirt_s1
+  rotate: true
+  xy: 2, 2
+  size: 217, 130
+  orig: 217, 130
+  offset: 0, 0
+  index: -1
+skirt_s2
+  rotate: true
+  xy: 2, 258
+  size: 146, 74
+  orig: 146, 74
+  offset: 0, 0
+  index: -1
+skirt_xl
+  rotate: true
+  xy: 2, 406
+  size: 76, 120
+  orig: 76, 120
+  offset: 0, 0
+  index: -1
+skirt_xr
+  rotate: true
+  xy: 2, 484
+  size: 72, 121
+  orig: 72, 121
+  offset: 0, 0
+  index: -1

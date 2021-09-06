@@ -1,0 +1,48 @@
+
+300103.png
+size: 317,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hip
+  rotate: false
+  xy: 230, 85
+  size: 85, 89
+  orig: 85, 89
+  offset: 0, 0
+  index: -1
+leftleg1_pants
+  rotate: true
+  xy: 2, 22
+  size: 79, 219
+  orig: 79, 219
+  offset: 0, 0
+  index: -1
+leftleg1_pants_x
+  rotate: false
+  xy: 283, 8
+  size: 32, 75
+  orig: 32, 75
+  offset: 0, 0
+  index: -1
+lower_pendant
+  rotate: false
+  xy: 259, 3
+  size: 22, 80
+  orig: 22, 80
+  offset: 0, 0
+  index: -1
+rightleg1_pants
+  rotate: true
+  xy: 2, 103
+  size: 71, 226
+  orig: 71, 226
+  offset: 0, 0
+  index: -1
+rightleg1_pants_x
+  rotate: false
+  xy: 223, 2
+  size: 34, 81
+  orig: 34, 81
+  offset: 0, 0
+  index: -1

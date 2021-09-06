@@ -1,0 +1,34 @@
+
+300101.png
+size: 378,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hair_bang
+  rotate: false
+  xy: 234, 47
+  size: 105, 90
+  orig: 105, 90
+  offset: 0, 0
+  index: -1
+hair_hairh
+  rotate: true
+  xy: 2, 2
+  size: 135, 230
+  orig: 135, 230
+  offset: 0, 0
+  index: -1
+hair_temples_l
+  rotate: false
+  xy: 341, 28
+  size: 35, 109
+  orig: 35, 109
+  offset: 0, 0
+  index: -1
+hair_temples_r
+  rotate: true
+  xy: 234, 10
+  size: 35, 102
+  orig: 35, 102
+  offset: 0, 0
+  index: -1

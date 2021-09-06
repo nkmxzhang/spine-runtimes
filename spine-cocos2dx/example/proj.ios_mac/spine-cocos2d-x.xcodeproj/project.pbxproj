@@ -44,7 +44,19 @@
 		50EF62A317ECD613001EB2F8 /* Icon-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 50EF62A117ECD613001EB2F8 /* Icon-50.png */; };
 		521A8E6419F0C34300D177D7 /* Default-667h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 521A8E6219F0C34300D177D7 /* Default-667h@2x.png */; };
 		521A8E6519F0C34300D177D7 /* Default-736h@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 521A8E6319F0C34300D177D7 /* Default-736h@3x.png */; };
+		525234EB26A55FB10070CD45 /* Cocos2dMultiAtlasAttachmentLoader.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 525234E926A55FB10070CD45 /* Cocos2dMultiAtlasAttachmentLoader.cpp */; };
+		525234EC26A55FB10070CD45 /* Cocos2dMultiAtlasAttachmentLoader.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 525234E926A55FB10070CD45 /* Cocos2dMultiAtlasAttachmentLoader.cpp */; };
+		525234ED26A55FB10070CD45 /* Cocos2dTextureAttachmentLoader.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 525234EA26A55FB10070CD45 /* Cocos2dTextureAttachmentLoader.cpp */; };
+		525234EE26A55FB10070CD45 /* Cocos2dTextureAttachmentLoader.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 525234EA26A55FB10070CD45 /* Cocos2dTextureAttachmentLoader.cpp */; };
+		525234F526A5A86E0070CD45 /* Cocos2dSpineHelper.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 525234F326A5A86E0070CD45 /* Cocos2dSpineHelper.cpp */; };
+		525234F626A5A86E0070CD45 /* Cocos2dSpineHelper.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 525234F326A5A86E0070CD45 /* Cocos2dSpineHelper.cpp */; };
+		525DFF5B26C65F670097EEA8 /* actress in Resources */ = {isa = PBXBuildFile; fileRef = 525DFF5A26C65F670097EEA8 /* actress */; };
+		525DFF5C26C65F670097EEA8 /* actress in Resources */ = {isa = PBXBuildFile; fileRef = 525DFF5A26C65F670097EEA8 /* actress */; };
+		526E2A792694250B00AF1AAF /* equip in Resources */ = {isa = PBXBuildFile; fileRef = 526E2A782694250B00AF1AAF /* equip */; };
+		526E2A7A2694250B00AF1AAF /* equip in Resources */ = {isa = PBXBuildFile; fileRef = 526E2A782694250B00AF1AAF /* equip */; };
 		52B47A471A53D09C004E4C60 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52B47A461A53D09B004E4C60 /* Security.framework */; };
+		52B68EB72692F1A2006F46E9 /* DressupExample.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52B68EB52692EF3F006F46E9 /* DressupExample.cpp */; };
+		52B68EB82692F1A3006F46E9 /* DressupExample.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52B68EB52692EF3F006F46E9 /* DressupExample.cpp */; };
 		7602C5551D7DAA1300C7C674 /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7602C5541D7DAA1300C7C674 /* CoreText.framework */; };
 		763104C320BC1B5E00927A1E /* Event.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7631048620BC1B5400927A1E /* Event.cpp */; };
 		763104C420BC1B5E00927A1E /* PathConstraint.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7631048720BC1B5400927A1E /* PathConstraint.cpp */; };
@@ -305,7 +317,17 @@
 		50EF62A117ECD613001EB2F8 /* Icon-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-50.png"; sourceTree = "<group>"; };
 		521A8E6219F0C34300D177D7 /* Default-667h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-667h@2x.png"; sourceTree = "<group>"; };
 		521A8E6319F0C34300D177D7 /* Default-736h@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-736h@3x.png"; sourceTree = "<group>"; };
+		525234E726A55FB10070CD45 /* Cocos2dMultiAtlasAttachmentLoader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Cocos2dMultiAtlasAttachmentLoader.h; sourceTree = "<group>"; };
+		525234E826A55FB10070CD45 /* Cocos2dTextureAttachmentLoader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Cocos2dTextureAttachmentLoader.h; sourceTree = "<group>"; };
+		525234E926A55FB10070CD45 /* Cocos2dMultiAtlasAttachmentLoader.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Cocos2dMultiAtlasAttachmentLoader.cpp; sourceTree = "<group>"; };
+		525234EA26A55FB10070CD45 /* Cocos2dTextureAttachmentLoader.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Cocos2dTextureAttachmentLoader.cpp; sourceTree = "<group>"; };
+		525234F326A5A86E0070CD45 /* Cocos2dSpineHelper.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Cocos2dSpineHelper.cpp; sourceTree = "<group>"; };
+		525234F426A5A86E0070CD45 /* Cocos2dSpineHelper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Cocos2dSpineHelper.h; sourceTree = "<group>"; };
+		525DFF5A26C65F670097EEA8 /* actress */ = {isa = PBXFileReference; lastKnownFileType = folder; path = actress; sourceTree = "<group>"; };
+		526E2A782694250B00AF1AAF /* equip */ = {isa = PBXFileReference; lastKnownFileType = folder; path = equip; sourceTree = "<group>"; };
 		52B47A461A53D09B004E4C60 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.1.sdk/System/Library/Frameworks/Security.framework; sourceTree = DEVELOPER_DIR; };
+		52B68EB52692EF3F006F46E9 /* DressupExample.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = DressupExample.cpp; sourceTree = "<group>"; };
+		52B68EB62692EF3F006F46E9 /* DressupExample.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DressupExample.h; sourceTree = "<group>"; };
 		7602C5541D7DAA1300C7C674 /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/CoreText.framework; sourceTree = DEVELOPER_DIR; };
 		7631048620BC1B5400927A1E /* Event.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Event.cpp; path = "../../../spine-cpp/spine-cpp/src/spine/Event.cpp"; sourceTree = "<group>"; };
 		7631048720BC1B5400927A1E /* PathConstraint.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = PathConstraint.cpp; path = "../../../spine-cpp/spine-cpp/src/spine/PathConstraint.cpp"; sourceTree = "<group>"; };
@@ -542,6 +564,8 @@
 		46880B7519C43A67006E1F66 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				525DFF5A26C65F670097EEA8 /* actress */,
+				526E2A782694250B00AF1AAF /* equip */,
 				76AAA4521D18132D00C54FCB /* common */,
 			);
 			name = Resources;
@@ -551,6 +575,8 @@
 		46880B8319C43A87006E1F66 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				52B68EB52692EF3F006F46E9 /* DressupExample.cpp */,
+				52B68EB62692EF3F006F46E9 /* DressupExample.h */,
 				767D80E022B29F22000BD703 /* MixAndMatchExample.cpp */,
 				767D80E222B29F22000BD703 /* MixAndMatchExample.h */,
 				76D1BFDF2029E35200A0272D /* SkeletonRendererSeparatorExample.cpp */,
@@ -624,6 +650,20 @@
 			path = ios;
 			sourceTree = SOURCE_ROOT;
 		};
+		525234E626A55FB10070CD45 /* extensions */ = {
+			isa = PBXGroup;
+			children = (
+				525234E726A55FB10070CD45 /* Cocos2dMultiAtlasAttachmentLoader.h */,
+				525234E826A55FB10070CD45 /* Cocos2dTextureAttachmentLoader.h */,
+				525234E926A55FB10070CD45 /* Cocos2dMultiAtlasAttachmentLoader.cpp */,
+				525234EA26A55FB10070CD45 /* Cocos2dTextureAttachmentLoader.cpp */,
+				525234F326A5A86E0070CD45 /* Cocos2dSpineHelper.cpp */,
+				525234F426A5A86E0070CD45 /* Cocos2dSpineHelper.h */,
+			);
+			name = extensions;
+			path = ../../src/spine/extensions;
+			sourceTree = "<group>";
+		};
 		76AAA3B21D180F7300C54FCB /* spine */ = {
 			isa = PBXGroup;
 			children = (
@@ -695,6 +735,7 @@
 		76AAA3FF1D18102C00C54FCB /* spine-cocos2dx */ = {
 			isa = PBXGroup;
 			children = (
+				525234E626A55FB10070CD45 /* extensions */,
 				76F10833239FC8CB005B0CE9 /* v4 */,
 				76D28AC2239FAED800FB142D /* v3 */,
 				76AAA4041D18106000C54FCB /* SkeletonAnimation.cpp */,
@@ -784,9 +825,6 @@
 			hasScannedForEncodings = 1;
 			knownRegions = (
 				English,
-				Japanese,
-				French,
-				German,
 			);
 			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
 			projectDirPath = "";
@@ -833,6 +871,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				526E2A792694250B00AF1AAF /* equip in Resources */,
 				5087E78117EB970100C73F5D /* Icon-120.png in Resources */,
 				5087E78617EB970100C73F5D /* Icon-76.png in Resources */,
 				5087E77F17EB970100C73F5D /* Default@2x.png in Resources */,
@@ -841,6 +880,7 @@
 				5087E77D17EB970100C73F5D /* Default-568h@2x.png in Resources */,
 				5087E78517EB970100C73F5D /* Icon-72.png in Resources */,
 				76AAA4571D18132D00C54FCB /* common in Resources */,
+				525DFF5B26C65F670097EEA8 /* actress in Resources */,
 				521A8E6519F0C34300D177D7 /* Default-736h@3x.png in Resources */,
 				50EF62A317ECD613001EB2F8 /* Icon-50.png in Resources */,
 				5087E78017EB970100C73F5D /* Icon-114.png in Resources */,
@@ -859,6 +899,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				525DFF5C26C65F670097EEA8 /* actress in Resources */,
+				526E2A7A2694250B00AF1AAF /* equip in Resources */,
 				503AE0F817EB97AB00D1A890 /* Icon.icns in Resources */,
 				76AAA4581D18132D00C54FCB /* common in Resources */,
 			);
@@ -872,6 +914,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				763104D320BC1B5E00927A1E /* ColorTimeline.cpp in Sources */,
+				52B68EB72692F1A2006F46E9 /* DressupExample.cpp in Sources */,
 				763104FA20BC1B5E00927A1E /* TransformConstraint.cpp in Sources */,
 				763104CB20BC1B5E00927A1E /* SkeletonBinary.cpp in Sources */,
 				76AAA40C1D18106000C54FCB /* AttachmentVertices.cpp in Sources */,
@@ -905,12 +948,14 @@
 				763104DF20BC1B5E00927A1E /* AttachmentLoader.cpp in Sources */,
 				76AAA3C01D180F7C00C54FCB /* AppDelegate.cpp in Sources */,
 				763104C420BC1B5E00927A1E /* PathConstraint.cpp in Sources */,
+				525234EB26A55FB10070CD45 /* Cocos2dMultiAtlasAttachmentLoader.cpp in Sources */,
 				763104F920BC1B5E00927A1E /* SkeletonJson.cpp in Sources */,
 				503AE10017EB989F00D1A890 /* AppController.mm in Sources */,
 				763104E820BC1B5E00927A1E /* BoundingBoxAttachment.cpp in Sources */,
 				763104C720BC1B5E00927A1E /* DrawOrderTimeline.cpp in Sources */,
 				767D80E322B29F22000BD703 /* MixAndMatchExample.cpp in Sources */,
 				763104F520BC1B5E00927A1E /* MeshAttachment.cpp in Sources */,
+				525234ED26A55FB10070CD45 /* Cocos2dTextureAttachmentLoader.cpp in Sources */,
 				763104E520BC1B5E00927A1E /* TwoColorTimeline.cpp in Sources */,
 				763104D420BC1B5E00927A1E /* IkConstraint.cpp in Sources */,
 				763104E920BC1B5E00927A1E /* Skin.cpp in Sources */,
@@ -953,6 +998,7 @@
 				763A8A98239FDC0400FBEDDC /* SkeletonRenderer.cpp in Sources */,
 				763104D220BC1B5E00927A1E /* RotateTimeline.cpp in Sources */,
 				763104E320BC1B5E00927A1E /* RegionAttachment.cpp in Sources */,
+				525234F526A5A86E0070CD45 /* Cocos2dSpineHelper.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -972,6 +1018,7 @@
 				763105A220BC1B9700927A1E /* AtlasAttachmentLoader.cpp in Sources */,
 				763105A320BC1B9700927A1E /* Attachment.cpp in Sources */,
 				763105A420BC1B9700927A1E /* AttachmentLoader.cpp in Sources */,
+				52B68EB82692F1A3006F46E9 /* DressupExample.cpp in Sources */,
 				763105A520BC1B9700927A1E /* AttachmentTimeline.cpp in Sources */,
 				763105A620BC1B9700927A1E /* Bone.cpp in Sources */,
 				763105A720BC1B9700927A1E /* BoneData.cpp in Sources */,
@@ -991,6 +1038,7 @@
 				763105B620BC1B9700927A1E /* Json.cpp in Sources */,
 				76C893B1236715B8009D8DC8 /* IKExample.cpp in Sources */,
 				763105B720BC1B9700927A1E /* LinkedMesh.cpp in Sources */,
+				525234EE26A55FB10070CD45 /* Cocos2dTextureAttachmentLoader.cpp in Sources */,
 				763105B820BC1B9700927A1E /* MathUtil.cpp in Sources */,
 				763105B920BC1B9700927A1E /* MeshAttachment.cpp in Sources */,
 				763105BA20BC1B9700927A1E /* PathAttachment.cpp in Sources */,
@@ -1005,6 +1053,7 @@
 				763105C320BC1B9700927A1E /* RTTI.cpp in Sources */,
 				763105C420BC1B9700927A1E /* ScaleTimeline.cpp in Sources */,
 				763105C520BC1B9700927A1E /* ShearTimeline.cpp in Sources */,
+				525234F626A5A86E0070CD45 /* Cocos2dSpineHelper.cpp in Sources */,
 				763105C620BC1B9700927A1E /* Skeleton.cpp in Sources */,
 				763105C720BC1B9700927A1E /* SkeletonBinary.cpp in Sources */,
 				763105C820BC1B9700927A1E /* SkeletonBounds.cpp in Sources */,
@@ -1012,6 +1061,7 @@
 				763105CA20BC1B9700927A1E /* SkeletonData.cpp in Sources */,
 				763105CB20BC1B9700927A1E /* SkeletonJson.cpp in Sources */,
 				763105CC20BC1B9700927A1E /* Skin.cpp in Sources */,
+				525234EC26A55FB10070CD45 /* Cocos2dMultiAtlasAttachmentLoader.cpp in Sources */,
 				763105CD20BC1B9700927A1E /* Slot.cpp in Sources */,
 				763105CE20BC1B9700927A1E /* SlotData.cpp in Sources */,
 				763105CF20BC1B9700927A1E /* SpineObject.cpp in Sources */,
@@ -1152,6 +1202,7 @@
 				);
 				INFOPLIST_FILE = mac/Info.plist;
 				LIBRARY_SEARCH_PATHS = "";
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
 				OTHER_LDFLAGS = (
 					"$(_COCOS_LIB_MAC_BEGIN)",
 					"$(_COCOS_LIB_MAC_END)",
@@ -1181,6 +1232,7 @@
 				);
 				INFOPLIST_FILE = mac/Info.plist;
 				LIBRARY_SEARCH_PATHS = "";
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
 				OTHER_LDFLAGS = (
 					"$(_COCOS_LIB_MAC_BEGIN)",
 					"$(_COCOS_LIB_MAC_END)",
@@ -1208,8 +1260,8 @@
 					"$(SRCROOT)/../../../spine-cpp/spine-cpp/include",
 					"$(SRCROOT)/../../src",
 				);
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
-				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;
@@ -1233,8 +1285,8 @@
 					"$(SRCROOT)/../../../spine-cpp/spine-cpp/include",
 					"$(SRCROOT)/../../src",
 				);
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
-				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;

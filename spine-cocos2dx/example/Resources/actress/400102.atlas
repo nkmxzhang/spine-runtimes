@@ -1,0 +1,132 @@
+
+400102.png
+size: 442,166
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 40
+  size: 79, 124
+  orig: 79, 124
+  offset: 0, 0
+  index: -1
+body_s
+  rotate: false
+  xy: 83, 83
+  size: 98, 81
+  orig: 98, 81
+  offset: 0, 0
+  index: -1
+leftarm1_clothes_pendant
+  rotate: true
+  xy: 230, 2
+  size: 46, 54
+  orig: 46, 54
+  offset: 0, 0
+  index: -1
+leftarm1_clothes_s
+  rotate: true
+  xy: 2, 4
+  size: 34, 68
+  orig: 34, 68
+  offset: 0, 0
+  index: -1
+leftarm1_happy_clothes_pendant
+  rotate: true
+  xy: 183, 50
+  size: 44, 73
+  orig: 44, 73
+  offset: 0, 0
+  index: -1
+leftarm1_happy_clothes_s
+  rotate: false
+  xy: 83, 2
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+leftarm2_anger_clothes_s
+  rotate: true
+  xy: 258, 50
+  size: 35, 59
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+leftarm2_clothes_s
+  rotate: true
+  xy: 291, 127
+  size: 37, 82
+  orig: 37, 82
+  offset: 0, 0
+  index: -1
+leftarm2_goal_clothes_s
+  rotate: false
+  xy: 183, 96
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: -1
+leftarm2_happy_clothes_s
+  rotate: true
+  xy: 83, 46
+  size: 35, 86
+  orig: 35, 86
+  offset: 0, 0
+  index: -1
+rightarm1_anger_clothes_pendant
+  rotate: false
+  xy: 286, 2
+  size: 53, 46
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+rightarm1_anger_clothes_s
+  rotate: true
+  xy: 370, 77
+  size: 41, 63
+  orig: 41, 63
+  offset: 0, 0
+  index: -1
+rightarm1_clothes_pendant
+  rotate: true
+  xy: 171, 2
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+rightarm1_clothes_s
+  rotate: false
+  xy: 395, 12
+  size: 40, 63
+  orig: 40, 63
+  offset: 0, 0
+  index: -1
+rightarm2_anger_clothes_s
+  rotate: true
+  xy: 375, 120
+  size: 44, 65
+  orig: 44, 65
+  offset: 0, 0
+  index: -1
+rightarm2_clothes_s
+  rotate: true
+  xy: 291, 87
+  size: 38, 77
+  orig: 38, 77
+  offset: 0, 0
+  index: -1
+rightarm2_goal_clothes_s
+  rotate: false
+  xy: 237, 96
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: -1
+rightarm2_happy_clothes_s
+  rotate: false
+  xy: 341, 13
+  size: 52, 62
+  orig: 52, 62
+  offset: 0, 0
+  index: -1

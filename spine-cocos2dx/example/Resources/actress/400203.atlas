@@ -1,0 +1,13 @@
+
+400203.png
+size: 119,127
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skirt_s1
+  rotate: false
+  xy: 2, 2
+  size: 115, 123
+  orig: 115, 123
+  offset: 0, 0
+  index: -1
