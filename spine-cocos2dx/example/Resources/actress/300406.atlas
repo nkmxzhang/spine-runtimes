@@ -1,0 +1,13 @@
+
+300406.png
+size: 96,69
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head_wear_q
+  rotate: false
+  xy: 2, 2
+  size: 92, 65
+  orig: 92, 65
+  offset: 0, 0
+  index: -1

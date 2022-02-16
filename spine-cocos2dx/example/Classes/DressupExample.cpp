@@ -68,7 +68,7 @@ void DressupExample::dressup3() {
         
     };
     std::map<std::string,std::string> skinAtlasMap = {
-        {"hair/100001", "100001.atlas"},
+        {"hair/300301", "300301.atlas"},
         {"upper/100002", "100002.atlas"},
         {"lower/100003", "100003.atlas"},
         {"shoes/100005", "100005.atlas"}
@@ -77,7 +77,7 @@ void DressupExample::dressup3() {
         //{"sp1_1__tfh", "attachments/slot_hat_400106.png"}
     };
     skeletonNode = Cocos2dSpineHelper::createMixMatchBinarySpine(
-                                                                 "000000.skel",
+                                                                 "me.skel",
                                                                  "000000.atlas",
                                                                  1,
                                                                  skinAtlasMap,

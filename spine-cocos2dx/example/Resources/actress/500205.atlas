@@ -1,0 +1,41 @@
+
+500205.png
+size: 244,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leftleg3_shoes
+  rotate: true
+  xy: 121, 3
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+leftleg3_shoes_x
+  rotate: true
+  xy: 70, 3
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: -1
+rightleg3_shoes
+  rotate: true
+  xy: 2, 3
+  size: 27, 66
+  orig: 27, 66
+  offset: 0, 0
+  index: -1
+rightleg3_shoes_pendant
+  rotate: false
+  xy: 221, 2
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+rightleg3_shoes_x
+  rotate: true
+  xy: 171, 2
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1

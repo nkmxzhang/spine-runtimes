@@ -1,20 +1,20 @@
 
-300203.png
-size: 201,122
+300403.png
+size: 344,152
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 lower_pendant_s
   rotate: true
-  xy: 130, 27
-  size: 93, 69
-  orig: 93, 69
+  xy: 299, 76
+  size: 74, 43
+  orig: 74, 43
   offset: 0, 0
   index: -1
 skirt_s1
-  rotate: false
+  rotate: true
   xy: 2, 2
-  size: 126, 118
-  orig: 126, 118
+  size: 148, 295
+  orig: 148, 295
   offset: 0, 0
   index: -1

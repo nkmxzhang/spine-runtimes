@@ -1,20 +1,20 @@
 
-300203.png
-size: 201,122
+500206.png
+size: 135,111
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-lower_pendant_s
+head_wear_q
   rotate: true
-  xy: 130, 27
-  size: 93, 69
-  orig: 93, 69
+  xy: 2, 66
+  size: 43, 131
+  orig: 43, 131
   offset: 0, 0
   index: -1
-skirt_s1
+head_wear_z
   rotate: false
   xy: 2, 2
-  size: 126, 118
-  orig: 126, 118
+  size: 93, 62
+  orig: 93, 62
   offset: 0, 0
   index: -1

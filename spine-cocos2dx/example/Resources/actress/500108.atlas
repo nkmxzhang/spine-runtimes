@@ -60,18 +60,18 @@ leftarm1_happy_clothes_s
   orig: 85, 68
   offset: 0, 0
   index: -1
+leftarm2_anger_clothes_s
+  rotate: true
+  xy: 907, 2
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
 leftarm2_anger_clothes_x
   rotate: true
   xy: 821, 113
   size: 19, 41
   orig: 19, 41
-  offset: 0, 0
-  index: -1
-leftarm2_anger_clthes_s
-  rotate: true
-  xy: 907, 2
-  size: 37, 55
-  orig: 37, 55
   offset: 0, 0
   index: -1
 leftarm2_clothes_x

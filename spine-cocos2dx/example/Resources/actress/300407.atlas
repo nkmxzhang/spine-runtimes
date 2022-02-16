@@ -1,0 +1,20 @@
+
+300407.png
+size: 76,40
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face1
+  rotate: false
+  xy: 2, 10
+  size: 72, 28
+  orig: 72, 28
+  offset: 0, 0
+  index: -1
+face2
+  rotate: true
+  xy: 2, 2
+  size: 6, 52
+  orig: 6, 52
+  offset: 0, 0
+  index: -1

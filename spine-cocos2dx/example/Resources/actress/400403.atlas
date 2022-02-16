@@ -1,0 +1,27 @@
+
+400403.png
+size: 541,85
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hip
+  rotate: true
+  xy: 482, 2
+  size: 81, 57
+  orig: 81, 57
+  offset: 0, 0
+  index: -1
+leftleg1_pants
+  rotate: true
+  xy: 2, 4
+  size: 79, 241
+  orig: 79, 241
+  offset: 0, 0
+  index: -1
+rightleg1_pants
+  rotate: true
+  xy: 245, 12
+  size: 71, 235
+  orig: 71, 235
+  offset: 0, 0
+  index: -1

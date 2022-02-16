@@ -13,9 +13,9 @@ body
   index: -1
 leftarm1_clothes_s
   rotate: false
-  xy: 104, 60
-  size: 41, 79
-  orig: 41, 79
+  xy: 104, 59
+  size: 41, 80
+  orig: 41, 80
   offset: 0, 0
   index: -1
 leftarm1_clothes_x
@@ -27,7 +27,7 @@ leftarm1_clothes_x
   index: -1
 leftarm1_happy_clothes_s
   rotate: true
-  xy: 113, 8
+  xy: 113, 7
   size: 50, 45
   orig: 50, 45
   offset: 0, 0

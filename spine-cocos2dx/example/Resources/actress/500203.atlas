@@ -1,0 +1,27 @@
+
+500203.png
+size: 496,163
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skirt_pendant
+  rotate: false
+  xy: 453, 63
+  size: 41, 98
+  orig: 41, 98
+  offset: 0, 0
+  index: -1
+skirt_s1
+  rotate: true
+  xy: 2, 2
+  size: 159, 248
+  orig: 159, 248
+  offset: 0, 0
+  index: -1
+skirt_s1_x
+  rotate: true
+  xy: 252, 2
+  size: 159, 199
+  orig: 159, 199
+  offset: 0, 0
+  index: -1
