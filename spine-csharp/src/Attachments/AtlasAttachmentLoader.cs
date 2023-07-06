@@ -36,7 +36,7 @@ namespace Spine {
 	/// See <a href='http://esotericsoftware.com/spine-loading-skeleton-data#JSON-and-binary-data'>Loading Skeleton Data</a> in the Spine Runtimes Guide.
 	/// </summary>
 	public class AtlasAttachmentLoader : AttachmentLoader {
-		private Atlas[] atlasArray;
+		protected Atlas[] atlasArray;
 
 		public AtlasAttachmentLoader (params Atlas[] atlasArray) {
 			if (atlasArray == null) throw new ArgumentNullException("atlas", "atlas array cannot be null.");
@@ -94,7 +94,7 @@ namespace Spine {
 			return new ClippingAttachment(name);
 		}
 
-		public AtlasRegion FindRegion (string name) {
+		public virtual AtlasRegion FindRegion (string name) {
 			AtlasRegion region;
 
 			for (int i = 0; i < atlasArray.Length; i++) {

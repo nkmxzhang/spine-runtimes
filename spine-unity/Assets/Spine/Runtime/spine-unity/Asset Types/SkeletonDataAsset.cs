@@ -62,6 +62,8 @@ namespace Spine.Unity {
 		public float[] duration = new float[0];
 		public float defaultMix;
 		public RuntimeAnimatorController controller;
+		
+		public string defaultAttachmentName = "";
 
 #if UNITY_EDITOR
 		public static bool errorIfSkeletonFileNullGlobal = true;
@@ -153,7 +155,15 @@ namespace Spine.Unity {
 			Atlas[] atlasArray = this.GetAtlasArray();
 
 #if !SPINE_TK2D
-			attachmentLoader = (atlasArray.Length == 0) ? (AttachmentLoader)new RegionlessAttachmentLoader() : (AttachmentLoader)new AtlasAttachmentLoader(atlasArray);
+			if (atlasArray.Length == 0) {
+				attachmentLoader = new RegionlessAttachmentLoader();
+			}
+			else if (!string.IsNullOrEmpty(defaultAttachmentName)) {
+				attachmentLoader = new MixAtlasAttachmentLoader(atlasArray, defaultAttachmentName);
+			}
+			else {
+				attachmentLoader = new AtlasAttachmentLoader(atlasArray);
+			}
 			skeletonDataScale = scale;
 #else
 			if (spriteCollection != null) {

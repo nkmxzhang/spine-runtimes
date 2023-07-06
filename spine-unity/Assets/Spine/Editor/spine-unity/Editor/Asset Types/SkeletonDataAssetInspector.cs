@@ -65,6 +65,8 @@ namespace Spine.Unity.Editor {
 		SerializedProperty controller;
 #endif
 
+		SerializedProperty defaultAttachmentName;
+
 		SkeletonDataAsset targetSkeletonDataAsset;
 		SkeletonData targetSkeletonData;
 
@@ -128,6 +130,8 @@ namespace Spine.Unity.Editor {
 			// Analysis disable once ConvertIfToOrExpression
 			if (newAtlasAssets) atlasAssets.isExpanded = true;
 #endif
+
+			defaultAttachmentName = serializedObject.FindProperty("defaultAttachmentName");
 
 			// This handles the case where the managed editor assembly is unloaded before recompilation when code changes.
 			AppDomain.CurrentDomain.DomainUnload -= OnDomainUnload;
@@ -285,6 +289,7 @@ namespace Spine.Unity.Editor {
 				EditorGUILayout.LabelField("SkeletonData", EditorStyles.boldLabel);
 				EditorGUILayout.PropertyField(skeletonJSON, SpineInspectorUtility.TempContent(skeletonJSON.displayName, Icons.spine));
 				EditorGUILayout.DelayedFloatField(scale); //EditorGUILayout.PropertyField(scale);
+				EditorGUILayout.DelayedTextField(defaultAttachmentName);
 				EditorGUILayout.Space();
 				EditorGUILayout.PropertyField(skeletonDataModifiers, true);
 
@@ -353,6 +358,7 @@ namespace Spine.Unity.Editor {
 			}
 
 			EditorGUILayout.DelayedFloatField(scale); //EditorGUILayout.PropertyField(scale);
+			EditorGUILayout.DelayedTextField(defaultAttachmentName);
 			EditorGUILayout.Space();
 			EditorGUILayout.PropertyField(skeletonDataModifiers, true);
 
