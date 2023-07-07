@@ -669,7 +669,7 @@ namespace Spine.Unity.Editor {
 							warnings.Add("AtlasAsset elements should not be null.");
 						} else {
 							List<string> missingPaths = null;
-							if (atlasAssets.arraySize > 0) {
+							if (atlasAssets.arraySize > 0 && string.IsNullOrEmpty(targetSkeletonDataAsset.defaultAttachmentName)) {
 								missingPaths = AssetUtility.GetRequiredAtlasRegions(AssetDatabase.GetAssetPath(skeletonJSON.objectReferenceValue));
 								foreach (Atlas atlas in atlasList) {
 									if (atlas == null)
